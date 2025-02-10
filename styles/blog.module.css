@@ -1,0 +1,13 @@
+/* styles/blog.module.css */
+.blog-post {
+    margin-bottom: 20px;
+  }
+  
+  .blog-post h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .blog-post p {
+    font-size: 16px;
+  }
